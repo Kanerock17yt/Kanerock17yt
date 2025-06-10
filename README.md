@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanerock17yt
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me: Youtube or by email.
 - ⚡ Fun fact: I have a youtube channel.
