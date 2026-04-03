@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Kanerock17yt
-- 👀 I’m interested discord bot making
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on coding.
+- 👀 I’m interested making apps in java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: Youtube or by email.
-- ⚡ Fun fact: I have a youtube channel.
+- ⚡ Fun fact: Sometimes I code little projects for my friends.
 
 <!---
 Kanerock17yt/Kanerock17yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
