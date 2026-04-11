@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Kanerock17yt
-- 👀 I’m interested making apps in java
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: Youtube or by email.
-- ⚡ Fun fact: Sometimes I code little projects for my friends.
+# Hi there 👋
+Hi, I am Kane_rock17yt!
+Thank you for viewing my profile.
+If you are one of my friends and you have a github profile, maybe we can make a project together.
 
-<!---
-Kanerock17yt/Kanerock17yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Some of my favorite projects:
+ - [RNG Cases](https://github.com/Kanerock17yt/RNG-Cases)
+ - [Terminal](https://github.com/Kanerock17yt/Terminal)
+
+## How to reach me: 
+ - My Youtube [Channel](https://www.youtube.com/@Kane_rock17yt)
+ - [Github](https://github.com/Kanerock17yt)
