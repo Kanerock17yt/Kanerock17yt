@@ -8,5 +8,5 @@ If you are one of my friends and you have a github profile, maybe we can make a 
  - [Terminal](https://github.com/Kanerock17yt/Terminal)
 
 ## How to reach me: 
- - My Youtube [Channel](https://www.youtube.com/@Kane_rock17yt)
+ - [Youtube Channel](https://www.youtube.com/@Kane_rock17yt)
  - [Github](https://github.com/Kanerock17yt)
