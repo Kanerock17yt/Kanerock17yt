@@ -9,6 +9,7 @@ If you are one of my friends and you have a github profile, maybe we can make a 
  - [Notes App](https://github.com/Kanerock17yt/Notes-App)
  - [JustType](https://github.com/Kanerock17yt/Notes-App)                                        [website](https://kanerock17yt.github.io/JustType)
  - [Markdown-Previewer](https://github.com/Kanerock17yt/markdown-Previewer)                    [website](https://kanerock17yt.github.io/markdown-previewer)
+ - [Ka Language](https://github.com/Kanerock17yt/ka-language)
 
 ## How to reach me: 
  - Youtube Channel: https://www.youtube.com/@Kane_rock17yt
